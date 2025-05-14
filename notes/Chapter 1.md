@@ -80,21 +80,23 @@ Artificial Intelligence can be categorized into:
 
 ## 🎯 State of the Art in AI
 
-Capabilities AI can currently achieve:
-- Play a decent game of table tennis
-- Drive safely along a curving mountain road
-- Buy a week's worth of groceries online
-- Play bridge reasonably well
-- Discover and prove new mathematical theorems
-- Design and execute research in molecular biology
-- Write funny stories intentionally
-- Give competent legal advice in specialized fields
-- Translate spoken English to Swedish in real time
-- Hold a conversation for an hour
-- Perform complex surgical operations
-- (Almost) unload a dishwasher perfectly without parental scolding!
+Capabilities that AI can currently achieve (with varying levels of success):
 
----
+- **Play a decent game of table tennis**
+- **Drive safely along a curving mountain road**
+- **Buy a week's worth of groceries online**
+- **Play bridge reasonably well**
+- Discover and prove new mathematical theorems
+- Design and execute research programs in molecular biology
+- **Write intentionally funny stories** *(subjective — humor quality may vary)*
+- **Give competent legal advice in specialized areas of law**
+- **Translate spoken English into spoken Swedish in real-time**
+- **Hold a conversation with a human for an hour** *(subjective — depends on context and depth)*
+- Perform complex surgical operations with robotic assistance
+- **(Almost) unload a dishwasher perfectly without parental scolding!** *(still an aspirational challenge!)*
+
+> 🧠 **Note:** Some tasks like humor generation and long conversations are still subjective and vary greatly based on human expectations and evaluation criteria.
+
 
 ## 🚨 Risks and Benefits of AI
 
