@@ -1,4 +1,4 @@
-# COMP-472: Artificial Intelligence (AIMA 4th Edition) - Chapter 1 Notes
+# COMP-472: Artificial Intelligence - Chapter 1 Notes
 
 ## 📝 Outline
 - What is AI?
