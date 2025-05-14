@@ -123,8 +123,3 @@ Artificial Intelligence is a multidisciplinary field aiming to create machines t
 
 *Notes based on AIMA 4th Edition, Chapter 1*
 """
-
-with open("/mnt/data/Ai_Intro_Notes.md", "w") as f:
-    f.write(markdown_content)
-"/mnt/data/Ai_Intro_Notes.md"
-
