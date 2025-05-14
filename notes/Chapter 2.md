@@ -1,6 +1,4 @@
-# COMP-472: Artificial Intelligence (AIMA 4th Edition) - Chapter 2 Notes
-
-# 🤖 Intelligent Agents (Explain like I'm 5)
+# COMP-472: Artificial Intelligence - Chapter 2 Notes
 
 ## 📚 Outline
 
