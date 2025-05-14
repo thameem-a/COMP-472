@@ -68,11 +68,11 @@ Students are expected to have prior knowledge of **data structures and algorithm
 
 ## 👨‍🏫 Course Staff
 
-- **Instructor:** Nagi Basha — [Nagi.Basha@Concordia.ca](mailto:Nagi.Basha@Concordia.ca)
+- **Instructor:** Nagi Basha 
 - **Teaching Assistants:**
-  - Soroush Ghorbanimehr — [sorush.gm@gmail.com](mailto:sorush.gm@gmail.com)
-  - Darshansinh Devda — [devdadarshan28@gmail.com](mailto:devdadarshan28@gmail.com)
-  - Tushar Rajmal Jain — [tusharrajmal.jain@mail.concordia.ca](mailto:tusharrajmal.jain@mail.concordia.ca)
+  - TA 1 
+  - TA 2
+  - TA 3
 
 ---
 
