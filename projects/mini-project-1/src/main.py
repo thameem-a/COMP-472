@@ -14,12 +14,14 @@ digitImg = datasets.load_digits()
 # https://www.geeksforgeeks.org/understanding-logistic-regression/
 # https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
 
-# flatten images
+# Normalize
+# Flatten images
 data = digitImg.images.reshape((len(digitImg.images), -1))
+data = np.array([[i/d.max() for i in d]for d in data]) # i pray no empty images - Normalized to values between 0 and 1
 
-# Split data into 50% train and 50% test subsets
+# Split data into 80% train and 20% test subsets
 X_train, X_test, y_train, y_test = train_test_split(
-    data, digitImg.target, test_size=0.5, shuffle=False
+    data, digitImg.target, test_size=0.2, shuffle=False
 )
 
 clf = LogisticRegression(random_state=0).fit(X_train, y_train)
