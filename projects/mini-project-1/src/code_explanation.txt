@@ -1,4 +1,4 @@
-Step 1.) Import ~1800 bitmaps of hand-written digits, along with the actual values (MNIST dataset).
+Step 1.) Import ~1800 images of hand-written digits, along with the actual values (MNIST dataset).
 Step 2.) Verification and normalization procedure (flattens matrix into vector and verifies dataset to some extent)
 Step 3.) Split data into training and testing (80% for training, 20% for testing--randomly shuffled)
 Step 4.) Train the classifier without a "random start state"
