@@ -15,7 +15,7 @@ def visualize_sample(images, labels, index):
     plt.matshow(images[index])
     plt.title(f"Label: {labels[index]}")
     plt.show()
-     
+
 def main():
     
     # Step 1) Load digits approx 1.8k 8x8 images
