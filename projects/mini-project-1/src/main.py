@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def normalize_images(data):
     """Normalize 8x8 grayscale image arrays to have values between 0 and 1."""
-    return np.array([[i/d.max() for i in d]for d in data]) # i pray no empty images - Normalized to values between 0 and 1
+    return np.array([[ (i/d.max() if d.max() > 0 else 0 ) for i in d]for d in data]) # Normalized to values between 0 and 1
 
 def visualize_sample(images, labels, index):
     """Display a sample image from the dataset."""
